@@ -2,6 +2,5 @@
   "framework": "nextjs",
   "buildCommand": "tinacms build && next build",
   "installCommand": "npm install",
-  "outputDirectory": ".next",
-  "nodeVersion": "18.x"
+  "outputDirectory": ".next"
 }
