@@ -17,7 +17,7 @@ const config: Config = {
         ink:          '#1a2d25',
       },
       fontFamily: {
-        sans: ['"Source Sans 3"', 'system-ui', 'sans-serif'],
+        sans: ['var(--font-source-sans)', 'system-ui', 'sans-serif'],
       },
     },
   },
