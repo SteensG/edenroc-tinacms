@@ -1,3 +1,4 @@
+// TinaCMS configuration
 import { defineConfig } from 'tinacms'
 
 const branch =
